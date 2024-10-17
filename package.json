@@ -2,6 +2,7 @@
   "name": "tomato",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://VaNadiaa.github.io/pomodoro",
   "type": "module",
   "scripts": {
     "dev": "vite",
